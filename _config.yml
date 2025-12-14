@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "profile.jpg"
   name             : "Luca Giacometti"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he/him"
   bio              : "PhD candidate in IT at Politecnico di Milano"
   location         : "Milano, Italy"
   employer         : "Politecnico di Milano"
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/lucagiacometti/"
+  linkedin         : "lucagiacometti"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
